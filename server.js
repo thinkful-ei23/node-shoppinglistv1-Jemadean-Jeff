@@ -1,3 +1,4 @@
+'use strict';
 
 const express = require('express');
 // we'll use morgan to log the HTTP layer
